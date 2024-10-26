@@ -1,0 +1,33 @@
+# Node.js related (for React client)
+client/node_modules/
+client/build/
+client/.env
+client/.DS_Store
+
+# Java and Spring Boot related (for server)
+server/target/
+server/.classpath
+server/.project
+server/.settings/
+server/.env
+server/.DS_Store
+
+# Maven specific
+server/logs/
+server/.mvn/
+server/mvnw
+server/mvnw.cmd
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# IDE specific files (e.g., IntelliJ, Eclipse)
+.idea/
+*.iml
+.vscode/
+*.log
+*.class
+
+# OS-specific files
+*.swp
